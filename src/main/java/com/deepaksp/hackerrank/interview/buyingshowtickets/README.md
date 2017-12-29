@@ -1,3 +1,5 @@
+Buying Show Tickets
+
 There are n people standing in line to buy show tickets. Due to High Demand, The Venue sells tickets according to the following rules: 
 1. The person at the head of the line can by exactly one ticket and must exit the line 
 2. If a person needs to purchase additional tickets, they must re-enter the end of the line in wait to be sold the next ticket (assume exit and re-entry takes 0 seconds) 
